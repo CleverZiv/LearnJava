@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bb578e7-1032-497e-9b6c-37bae646f1de" name="Default" comment="" />
+    <ignored path="ReadCode.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ReadCode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/greedy/Questtion1518.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/Console.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/t1/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/t1/Demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juc/t3/ProducerConsumer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1463">
+              <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/juc/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dfs/Questionoffer12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jvm/ClassTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nio/bio/BioDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start</find>
+      <find>run</find>
+      <find>run()</find>
+      <find>get()</find>
+      <find>remove</find>
+      <find>cancel</find>
+    </findStrings>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="jdk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/juc/t1/Demo10.java" />
+        <option value="$PROJECT_DIR$/src/juc/t2/Demo11.java" />
+        <option value="$PROJECT_DIR$/src/juc/t3/ProducerConsumer1.java" />
+        <option value="$PROJECT_DIR$/src/juc/t3/ProducerConsumer3.java" />
+        <option value="$PROJECT_DIR$/src/juc/t3/ProducerConsumer2.java" />
+        <option value="$PROJECT_DIR$/src/juc/t4/Join.java" />
+        <option value="$PROJECT_DIR$/src/juc/t4/ThLocal.java" />
+        <option value="$PROJECT_DIR$/src/juc/t5/Lol.java" />
+        <option value="$PROJECT_DIR$/src/juc/t5/Lol2.java" />
+        <option value="$PROJECT_DIR$/src/juc/t5/Sema.java" />
+        <option value="$PROJECT_DIR$/src/collection/HashMa.java" />
+        <option value="$PROJECT_DIR$/src/collection/HashMapZiv.java" />
+        <option value="$PROJECT_DIR$/src/collection/hashmap/Map.java" />
+        <option value="$PROJECT_DIR$/src/collection/hashmap/AbstractMap.java" />
+        <option value="$PROJECT_DIR$/src/collection/hashmap/HashMap.java" />
+        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/codetest/Jdbctest.java" />
+        <option value="$PROJECT_DIR$/src/future/FutureDemo.java" />
+        <option value="$PROJECT_DIR$/src/future/FutureTask.java" />
+        <option value="$PROJECT_DIR$/src/future/MyFutureTask.java" />
+        <option value="$PROJECT_DIR$/src/bookjdk8/chapter2/ApplePredicate.java" />
+        <option value="$PROJECT_DIR$/src/bookjdk8/chapter2/impl/GreenApplePredicate.java" />
+        <option value="$PROJECT_DIR$/src/bookjdk8/chapter2/impl/RedAndWeightApplePredicate.java" />
+        <option value="$PROJECT_DIR$/src/bookjdk8/chapter2/Apple.java" />
+        <option value="$PROJECT_DIR$/src/bookjdk8/chapter2/AppleSolution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question739.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question42.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question20.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question155.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question71.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question394.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question402.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/Question735.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/heap/Twitter.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/heap/Question743.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/heap/Question1054.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/binarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/binarytree/Question0406.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/binarytree/Question0408.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/ListStack.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/stack/ListQueue.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/greedy/Questtion1518.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dfs/Question491.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dfs/Questionoffer12.java" />
+        <option value="$PROJECT_DIR$/src/jvm/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/nio/bio/BioDemo1.java" />
+        <option value="$PROJECT_DIR$/src/tree/Console.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/StudySoft/apache-maven-3.0.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="jdk" pattern="lib:java..*||lib:javax..*" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1862" />
+    <option name="y" value="27" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReadCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="putVal&#9;PSI&#9;JAVA://java.io.ObjectInputValidation&#10;ensureCapacity&#9;PSI&#9;JAVA://java.util.ArrayList#ensureCapacity" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="E:/PRO/thirdjar/mysql-connector-java-5.0.8-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="collection.hashmap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\imooc\ReadCode\src\juc\t3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Console">
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.ArrayStack" />
+      <module name="ReadCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BioDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.bio.BioDemo1" />
+      <module name="ReadCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.ClassTest" />
+      <module name="ReadCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.Console" />
+      <module name="ReadCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Questtion1518" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.greedy.Questtion1518" />
+      <module name="ReadCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayStack" />
+      <item itemvalue="Application.Questtion1518" />
+      <item itemvalue="Application.ClassTest" />
+      <item itemvalue="Application.BioDemo1" />
+      <item itemvalue="Application.Console" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Console" />
+        <item itemvalue="Application.BioDemo1" />
+        <item itemvalue="Application.ClassTest" />
+        <item itemvalue="Application.Questtion1518" />
+        <item itemvalue="Application.ArrayStack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bb578e7-1032-497e-9b6c-37bae646f1de" name="Default" comment="" />
+      <created>1537427381347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537427381347</updated>
+      <workItem from="1537427385080" duration="4288000" />
+      <workItem from="1539874223792" duration="2379000" />
+      <workItem from="1540114252078" duration="7600000" />
+      <workItem from="1540186569449" duration="9038000" />
+      <workItem from="1540300472968" duration="245000" />
+      <workItem from="1540302816672" duration="781000" />
+      <workItem from="1540383730116" duration="3284000" />
+      <workItem from="1540458625082" duration="8641000" />
+      <workItem from="1540735963307" duration="4554000" />
+      <workItem from="1540784530511" duration="3729000" />
+      <workItem from="1540819414573" duration="5095000" />
+      <workItem from="1540891496634" duration="5405000" />
+      <workItem from="1540957393160" duration="754000" />
+      <workItem from="1541867608800" duration="673000" />
+      <workItem from="1541868570321" duration="278000" />
+      <workItem from="1541931421808" duration="59000" />
+      <workItem from="1541933078097" duration="39000" />
+      <workItem from="1541992838867" duration="4867000" />
+      <workItem from="1542271830835" duration="8834000" />
+      <workItem from="1542424838007" duration="10093000" />
+      <workItem from="1542464820042" duration="1297000" />
+      <workItem from="1542526551196" duration="2984000" />
+      <workItem from="1542679681093" duration="3036000" />
+      <workItem from="1542792705699" duration="2435000" />
+      <workItem from="1542851621942" duration="3115000" />
+      <workItem from="1542958810241" duration="9822000" />
+      <workItem from="1543029828677" duration="6801000" />
+      <workItem from="1543132854751" duration="2922000" />
+      <workItem from="1543229570149" duration="603000" />
+      <workItem from="1543377200876" duration="622000" />
+      <workItem from="1546940388558" duration="282000" />
+      <workItem from="1547004674657" duration="1250000" />
+      <workItem from="1547007469667" duration="1198000" />
+      <workItem from="1547106138234" duration="43000" />
+      <workItem from="1551858202428" duration="9031000" />
+      <workItem from="1551884775794" duration="840000" />
+      <workItem from="1551919284406" duration="12212000" />
+      <workItem from="1551966034428" duration="4385000" />
+      <workItem from="1552023808196" duration="4501000" />
+      <workItem from="1552052553992" duration="660000" />
+      <workItem from="1552144634512" duration="2065000" />
+      <workItem from="1552195568855" duration="6313000" />
+      <workItem from="1552294146636" duration="637000" />
+      <workItem from="1552394426354" duration="146000" />
+      <workItem from="1577859549047" duration="43000" />
+      <workItem from="1586004256168" duration="7644000" />
+      <workItem from="1590681941101" duration="652000" />
+      <workItem from="1590683555252" duration="2611000" />
+      <workItem from="1590891894603" duration="94000" />
+      <workItem from="1595264329179" duration="2844000" />
+      <workItem from="1595340887891" duration="4365000" />
+      <workItem from="1595431057050" duration="5741000" />
+      <workItem from="1595759629333" duration="1286000" />
+      <workItem from="1595863083152" duration="2818000" />
+      <workItem from="1595951307513" duration="1842000" />
+      <workItem from="1596039538502" duration="2529000" />
+      <workItem from="1596117971459" duration="3720000" />
+      <workItem from="1596252731616" duration="3303000" />
+      <workItem from="1596357434017" duration="1458000" />
+      <workItem from="1596722168461" duration="4443000" />
+      <workItem from="1596823736218" duration="5608000" />
+      <workItem from="1596853577077" duration="5577000" />
+      <workItem from="1597074408032" duration="4462000" />
+      <workItem from="1597458656709" duration="4964000" />
+      <workItem from="1597464110858" duration="3983000" />
+      <workItem from="1597545938730" duration="1564000" />
+      <workItem from="1598686293325" duration="2055000" />
+      <workItem from="1599017388486" duration="3715000" />
+      <workItem from="1601111960416" duration="1844000" />
+      <workItem from="1602923113505" duration="1332000" />
+      <workItem from="1604835484121" duration="1123000" />
+      <workItem from="1604837680454" duration="960000" />
+      <workItem from="1604838681251" duration="2284000" />
+      <workItem from="1605024776217" duration="1303000" />
+      <workItem from="1605109077425" duration="161000" />
+      <workItem from="1606663909063" duration="673000" />
+      <workItem from="1607102354977" duration="618000" />
+      <workItem from="1607267970982" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245703000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22091153" />
+      <window_info id="Structure" order="1" weight="0.1748401" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26777777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.29144096" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="JProfiler" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24929972" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32922912" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32959852" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="jclasslib" order="10" weight="0.41220558" />
+      <window_info anchor="right" id="Codota" order="11" />
+      <window_info anchor="right" id="leetcode" order="12" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3570664" />
+      <window_info id="Structure" order="1" weight="0.1748401" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26777777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.29144096" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24929972" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32959852" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32959852" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java</url>
+          <line>260</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question739.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question42.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question71.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question394.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question402.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/Question735.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/heap/Twitter.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/heap/Twitter.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/heap/Twitter.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/heap/Twitter.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/binarytree/Question0406.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/binarytree/Question0406.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/greedy/Questtion1518.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/future/FutureTask1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16549">
+          <caret line="910" column="12" selection-start-line="910" selection-start-column="12" selection-end-line="910" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9006">
+          <caret line="525" column="32" selection-start-line="525" selection-start-column="32" selection-end-line="525" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/future/MyFutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/future/FutureDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookjdk8/chapter2/AppleSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3135">
+          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question71.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="81" column="22" selection-start-line="65" selection-start-column="7" selection-end-line="81" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookjdk8/chapter2/ApplePredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookjdk8/chapter2/impl/GreenApplePredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookjdk8/chapter2/impl/RedAndWeightApplePredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookjdk8/chapter2/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question735.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="42" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question402.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/binarytree/Question0408.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/heap/Twitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/heap/Question743.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" selection-start-line="14" selection-start-column="7" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/heap/Question1054.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/binarytree/Question0406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/binarytree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="47" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/ListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/ListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/stack/Question394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="124" column="11" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
+          <folding>
+            <element signature="e#4455#4456#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/java.base">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>java.base</OriginalElement>
+          <nodes>
+            <node x="159.0" y="405.0">java.datatransfer</node>
+            <node x="0.0" y="164.0">java.security.sasl</node>
+            <node x="183.99999999999997" y="0.0">java.management.rmi</node>
+            <node x="172.4" y="487.0">java.xml</node>
+            <node x="423.5" y="323.0">java.base</node>
+            <node x="183.85000000000002" y="323.0">java.desktop</node>
+            <node x="35.0" y="82.0">java.naming</node>
+            <node x="212.57142857142856" y="246.0">java.logging</node>
+            <node x="203.99999999999997" y="82.0">java.management</node>
+            <node x="0.0" y="405.0">java.prefs</node>
+            <node x="413.0" y="82.0">java.rmi</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.management" target="java.management.rmi">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.rmi" target="java.management.rmi">
+              <point x="0.0" y="-16.0" />
+              <point x="472.5" y="57.0" />
+              <point x="374.83333333333326" y="57.0" />
+              <point x="76.33333333333331" y="16.0" />
+            </edge>
+            <edge source="java.logging" target="java.rmi">
+              <point x="39.75" y="-16.0" />
+              <point x="331.82142857142856" y="221.0" />
+              <point x="472.5" y="221.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.xml" target="java.prefs">
+              <point x="-29.75" y="-16.0" />
+              <point x="202.15" y="462.0" />
+              <point x="69.5" y="462.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.security.sasl" target="java.naming">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.xml" target="java.desktop">
+              <point x="29.75" y="-16.0" />
+              <point x="261.65" y="462.0" />
+              <point x="378.5" y="462.0" />
+              <point x="378.5" y="380.0" />
+              <point x="316.35" y="380.0" />
+              <point x="53.0" y="16.0" />
+            </edge>
+            <edge source="java.prefs" target="java.desktop">
+              <point x="0.0" y="-16.0" />
+              <point x="69.5" y="380.0" />
+              <point x="210.35000000000002" y="380.0" />
+              <point x="-53.0" y="16.0" />
+            </edge>
+            <edge source="java.naming" target="java.management.rmi">
+              <point x="0.0" y="-16.0" />
+              <point x="109.5" y="57.0" />
+              <point x="222.16666666666666" y="57.0" />
+              <point x="-76.33333333333331" y="16.0" />
+            </edge>
+            <edge source="java.logging" target="java.security.sasl">
+              <point x="-39.75" y="-16.0" />
+              <point x="252.32142857142856" y="221.0" />
+              <point x="109.5" y="221.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.datatransfer" target="java.desktop">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="82.0" />
+          <SelectedNodes>
+            <node>java.base</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.InputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.InputStream</OriginalElement>
+          <nodes>
+            <node x="20.0" y="82.0">java.io.Closeable</node>
+            <node x="0.0" y="0.0">java.lang.AutoCloseable</node>
+            <node x="10.0" y="164.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-343.0" y="-80.0" />
+          <SelectedNodes>
+            <node>java.io.InputStream</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.ObjectInputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.ObjectInputStream</OriginalElement>
+          <nodes>
+            <node x="1786.113492063492" y="164.0">java.lang.Deprecated</node>
+            <node x="623.863492063492" y="256.0">java.io.SequenceInputStream</node>
+            <node x="156.863492063492" y="256.0">java.io.ObjectInputStream</node>
+            <node x="394.86349206349206" y="256.0">java.io.FileInputStream</node>
+            <node x="1648.863492063492" y="256.0">java.io.StringBufferInputStream</node>
+            <node x="479.1551587301586" y="0.0">java.lang.AutoCloseable</node>
+            <node x="881.863492063492" y="256.0">java.io.FilterInputStream</node>
+            <node x="1369.863492063492" y="256.0">java.io.ByteArrayInputStream</node>
+            <node x="1130.863492063492" y="256.0">java.io.PipedInputStream</node>
+            <node x="921.863492063492" y="82.0">java.io.Closeable</node>
+            <node x="52.5" y="82.0">java.io.DataInput</node>
+            <node x="0.0" y="164.0">java.io.ObjectInput</node>
+            <node x="189.0" y="164.0">java.io.ObjectStreamConstants</node>
+            <node x="911.863492063492" y="164.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectInput">
+              <point x="-72.66666666666669" y="-16.0" />
+              <point x="193.19682539682526" y="236.0" />
+              <point x="84.5" y="236.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.InputStream">
+              <point x="72.66666666666669" y="-16.0" />
+              <point x="338.5301587301587" y="216.0" />
+              <point x="923.9349206349207" y="216.0" />
+              <point x="-72.42857142857144" y="16.0" />
+            </edge>
+            <edge source="java.io.ObjectInput" target="java.io.DataInput">
+              <point x="42.25" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.StringBufferInputStream" target="java.lang.Deprecated">
+              <point x="72.25" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="-1.1368683772161603E-13" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.FilterInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.StringBufferInputStream" target="java.io.InputStream">
+              <point x="-72.25" y="-16.0" />
+              <point x="1721.113492063492" y="216.0" />
+              <point x="1068.7920634920636" y="216.0" />
+              <point x="72.42857142857144" y="16.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectStreamConstants">
+              <point x="0.0" y="-16.0" />
+              <point x="265.863492063492" y="236.0" />
+              <point x="323.5" y="236.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-16.0" />
+              <point x="1499.363492063492" y="226.0" />
+              <point x="1044.6492063492065" y="226.0" />
+              <point x="48.285714285714334" y="16.0" />
+            </edge>
+            <edge source="java.io.SequenceInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-16.0" />
+              <point x="742.863492063492" y="236.0" />
+              <point x="972.2206349206349" y="236.0" />
+              <point x="-24.14285714285711" y="16.0" />
+            </edge>
+            <edge source="java.io.PipedInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-16.0" />
+              <point x="1240.363492063492" y="236.0" />
+              <point x="1020.5063492063493" y="236.0" />
+              <point x="24.142857142857224" y="16.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.InputStream">
+              <point x="-1.1368683772161603E-13" y="-16.0" />
+              <point x="499.36349206349195" y="226.0" />
+              <point x="948.0777777777778" y="226.0" />
+              <point x="-48.285714285714334" y="16.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="-1.1368683772161603E-13" y="-16.0" />
+              <point x="996.3634920634918" y="57.0" />
+              <point x="620.9051587301585" y="57.0" />
+              <point x="47.25" y="16.0" />
+            </edge>
+            <edge source="java.io.ObjectInput" target="java.lang.AutoCloseable">
+              <point x="-42.25" y="-16.0" />
+              <point x="42.0" y="57.0" />
+              <point x="526.4051587301585" y="57.0" />
+              <point x="-47.25" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0498987854251012" x="1435.0" y="179.0" />
+          <SelectedNodes>
+            <node>java.io.FileInputStream</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk11/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ReadCode/jvm/ClassTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/greedy/Questtion1518.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dfs/Questionoffer12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/ClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/bio/BioDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/t1/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/t1/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/t3/ProducerConsumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juc/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ReadCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>jdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="jdk" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
